@@ -3,7 +3,6 @@ Visitar el sitio aquí https://primer-ejercicio-react.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 He creado un sitio parecido pero con Firebase, visitar el sitio aquí https://crud-udemy-react-fd554.web.app
-
 (por motivos de seguridad no se puede reescribir)
 ![image](https://user-images.githubusercontent.com/69773014/139938608-e6e92d7a-9e8b-48bd-bab9-21adc04faf1a.png)
 
